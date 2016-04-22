@@ -7,5 +7,7 @@ They range from a variety of topics from HTML/CSS/JS/Angular and etc. Most of th
 Photo Gallery
 
 An exercise using just basic HTML/CSS to accomplish an online photography album.
+
 Files Involved: PhotoGrid.html & Photo.css
+
 Reference: UdemyCourseJS
