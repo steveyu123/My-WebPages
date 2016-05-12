@@ -8,6 +8,6 @@ Photo Gallery
 
 An exercise using just basic HTML/CSS to accomplish an online photography album.
 
-Files Involved: PhotoGrid.html & PhotoGrid.css
+Files Involved: Pending
 
 Reference: UdemyCourseJS
