@@ -11,3 +11,6 @@ An exercise using just basic HTML/CSS to accomplish an online photography album.
 Files Involved: Pending
 
 Reference: UdemyCourseJS
+
+
+Other documents will be updated shortly!
